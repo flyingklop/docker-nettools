@@ -1,4 +1,4 @@
-FROM	alpine:3.11
+FROM	alpine:edge
 
 LABEL	org.label-schema.description="Useful network related tools"
 LABEL	org.label-schema.vendor=travelping.com
