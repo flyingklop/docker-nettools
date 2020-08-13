@@ -10,6 +10,7 @@ RUN		apk add --no-cache --update \
 		conntrack-tools \
 		coreutils \
 		curl \
+    dig \
 		drill \
 		iperf3 \
 		iproute2 \
